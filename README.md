@@ -2,11 +2,11 @@
 <h3 align="center">A Electronic Engineer and Web developer</h3>
 
 
-- :star: I’m interested in ...Coding :computer:, I'm fond of philosophy :blue_book:, and a Squash player :tennis:
--  :snowflake: I’m currently learning Javascript, HTML, Css, Webpack, Bootstrap, React.js, PostgreSQL, Ruby and Rails, Jest...
+- :star: I’m interested in ...Quantum Programming:computer:, I'm fond of philosophy :blue_book:, and a Squash player :tennis:
+-  :snowflake: I’m currently learning Javascript, HTML, CSS, Webpack, Bootstrap, React.js, PostgreSQL, Ruby and Rails, Jest...
 - :ok_hand: I’m looking to collaborate on any project working with the above mentioned Tools
 - 📬 How to reach me gustavoporcilio@gmail.com or check my [:briefcase: LinkedIn](https://www.linkedin.com/in/gustavo-ariel-porcilio/)
-   ... so, you can see some live demos of my projects deployed on GitHub, Netlify and Render.
+   ... so, you can see some live demos of my projects deployed on GitHub, Netlify, and Render.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
